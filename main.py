@@ -1,7 +1,8 @@
 import matplotlib.pyplot as plt
 import numpy as np
 import random
-lanzamiento= [int( input("Ingrese numero de lanzamientos:") )]
+# lanzamiento= [int( input("Ingrese numero de lanzamientos:") )]
+lanzamiento=[10,100,1000,10000,10000]
 for i in lanzamiento:
     list = [random.randint(1,6) + random.randint(1,6) for i in range(i)]
     fig, axs = plt.subplots()
