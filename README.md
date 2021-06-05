@@ -15,7 +15,7 @@
   - :file_folder: [Práctica 05 FIFA Tutorial de Matplot para graficas y Reportes papermil](https://github.com/paulogonzalez5679/Simulacion_dados/tree/master/MatlplotLib-%20Fifa%20-%20papermil)
   
   - 📁[Práctica 06 Simulación car wash ](https://github.com/paulogonzalez5679/Simulacion_dados/tree/master/CarWash)
-  - 📁[Práctica 07 Proceso vacunación Ecuador - Simpy ](https://github.com/paulogonzalez5679/Simulacion_dados/tree/master/CarWash)
+  - 📁[Práctica 07 Proceso vacunación Ecuador - Simpy ](https://github.com/paulogonzalez5679/Simulacion_dados/tree/master/Simulaci%C3%B3n%20de%20proceso%20de%20vacunacion%20Ecuador)
 
 - *Actividades en clase*
   - :file_folder: [Boletin 01](https://github.com/paulogonzalez5679/Simulacion_dados/tree/master/Boletin%201)
