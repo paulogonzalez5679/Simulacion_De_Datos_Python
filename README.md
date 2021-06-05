@@ -10,6 +10,8 @@
 
   - :file_folder: [Práctica 03 Modelo SIR Covid Ecuador](https://github.com/paulogonzalez5679/Simulacion_dados/tree/master/Modelo%20SIR%20Ecuador)
   
+  - :file_folder: [Práctica 04_propagacion_covid Ecuador](https://github.com/paulogonzalez5679/Simulacion_dados/tree/master/Simulacion%20de%20propagacion%20Covid-Ecuador)
+  
   - :file_folder: [Práctica 05 FIFA Tutorial de Matplot para graficas y Reportes papermil](https://github.com/paulogonzalez5679/Simulacion_dados/tree/master/MatlplotLib-%20Fifa%20-%20papermil)
   
   - 📁[Práctica 06 Simulación car wash ](https://github.com/paulogonzalez5679/Simulacion_dados/tree/master/CarWash)
