@@ -18,6 +18,7 @@
   - 📁[Práctica 07 Proceso vacunación Ecuador - Simpy ](https://github.com/paulogonzalez5679/Simulacion_dados/tree/master/Simulaci%C3%B3n%20de%20proceso%20de%20vacunacion%20Ecuador)
 
 - *Actividades en clase*
+  - :file_folder: [Tarea en clase 01](https://github.com/paulogonzalez5679/Simulacion_dados/tree/master/Juego%20de%20la%20Vida)
   - :file_folder: [Boletin 01](https://github.com/paulogonzalez5679/Simulacion_dados/tree/master/Boletin%201)
   
 - *Pruebas*
