@@ -16,13 +16,13 @@
   
   - 📁[Práctica 06 Simulación car wash ](https://github.com/paulogonzalez5679/Simulacion_dados/tree/master/CarWash)
   - 📁[Práctica 07 Proceso vacunación Ecuador - Simpy ](https://github.com/paulogonzalez5679/Simulacion_dados/tree/master/CarWash)
+
+- *Actividades en clase*
+  - :file_folder: [Boletin 01](https://github.com/paulogonzalez5679/Simulacion_dados/tree/master/Boletin%201)
   
 - *Pruebas*
   - :file_folder: [Prueba 01](https://github.com/paulogonzalez5679/Simulacion_dados/tree/master/Prueba%201)
   
-- *Boletines*
-  - :file_folder: [Boletin 01](https://github.com/paulogonzalez5679/Simulacion_dados/tree/master/Boletin%201)
-
 - *Examen InterCiclo*
   - :file_folder: [Examen Interciclo](https://github.com/paulogonzalez5679/Simulacion_dados/tree/master/ExamenInterciclo)
 
