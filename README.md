@@ -10,6 +10,8 @@
 
   - :file_folder: [Práctica 03 Modelo SIR Covid Ecuador](https://github.com/paulogonzalez5679/Simulacion_dados/tree/master/Modelo%20SIR%20Ecuador)
   
+  - 📁:[Práctica 06 Simulación car wash ](https://github.com/paulogonzalez5679/Simulacion_dados/tree/master/CarWash)
+  
 - *Pruebas*
   - :file_folder: [Prueba 01](https://github.com/paulogonzalez5679/Simulacion_dados/tree/master/Prueba%201)
   
