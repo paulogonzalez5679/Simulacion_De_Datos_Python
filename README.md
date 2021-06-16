@@ -29,6 +29,6 @@
   - https://github.com/paulogonzalez5679/Simulacion_dados/tree/master/Proyecto%20Interciclo/Simulacion
 
 - *Proyecto InterCiclo*
-    - 🖊️ [Simulacion/Código](https://github.com/paulogonzalez5679/Simulacion_dados/tree/master/Proyecto%20Interciclo/Simulacion)
+    - 📝 [Simulacion/Código](https://github.com/paulogonzalez5679/Simulacion_dados/tree/master/Proyecto%20Interciclo/Simulacion)
 
 
