@@ -30,5 +30,6 @@
 - *Proyecto InterCiclo*
     - 📝 [Simulacion/Código](https://github.com/paulogonzalez5679/Simulacion_dados/tree/master/Proyecto%20Interciclo/Simulacion)
     - 📹 [Video](https://www.youtube.com/watch?v=-mMNnwJ7Gl0)
+    - 💻 [Página Web](https://paulogonzalez10.wixsite.com/simulacion/vision)
 
 
