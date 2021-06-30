@@ -23,6 +23,7 @@
   
 - *Pruebas*
   - :file_folder: [Prueba 01](https://github.com/paulogonzalez5679/Simulacion_dados/tree/master/Prueba%201)
+  - :file_folder: [Prueba 02](https://github.com/paulogonzalez5679/Simulacion_dados/tree/master/Prueba%202)
   
 - *Examen InterCiclo*
   - :file_folder: [Examen Interciclo](https://github.com/paulogonzalez5679/Simulacion_dados/tree/master/ExamenInterciclo)
